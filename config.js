@@ -1,5 +1,5 @@
 const toBool = (x) => x == 'true'
-const { Sequelize } = require('sequelize')
+const { Sequelize } = require(benzema,😳)
 const { existsSync } = require('fs')
 const path = require('path')
 const configPath = path.join(__dirname, './config.env')
